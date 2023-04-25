@@ -1,3 +1,15 @@
+body{
+		position: relative;
+		background: #1877f2;
+		box-shadow: 2px 0px 3px 0px black;
+		border: 2px;
+		width: 400px;
+		height: 300px;
+		border-radius: 10px;
+
+
+
+	}
 #in{
 	margin-top: 300px;
 	margin-left: 1cm;
